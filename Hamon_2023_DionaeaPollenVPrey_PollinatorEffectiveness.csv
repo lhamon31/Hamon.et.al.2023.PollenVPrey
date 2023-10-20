@@ -1,0 +1,128 @@
+date,year,stigmaID,insectID,timeUnbagged,timeVisit,Order,Family,Genus,species,behavior,visitationOrder,observer,DIMUpollen,numberConTetrads,numberHetGrains,heterospecificNotes,mnControl,tetradsMinusMnControl,analysisInclusion,reason,type
+5/14/2018,2018,1,a,12:57,13:11,Hymenoptera,Halictidae,unknown,unknown,,1,C. Sorenson,N,0,NA,NA,6.4,-6.4,Y,,visited
+5/14/2018,2018,3,a,12:58,13:21,Hymenoptera,Halictidae,unknown,unknown,goes away and comes back to flower,2,C. Sorenson,Y,5,NA,NA,6.4,-1.4,Y,,visited
+5/14/2018,2018,4,a,13:40,14:05,Hymenoptera,Halictidae,unknown,unknown,,3,C. Sorenson,Y,1,NA,NA,6.4,-5.4,Y,,visited
+5/25/2018,2018,6,5,13:34,14:31,Hymenoptera,Megachilidae,unknown,unknown,"visited other VFT, touched this stigma and kept going",1,E. Youngsteadt,Y,58,NA,NA,6.4,51.6,Y,,visited
+6/1/2018,2018,7,6,12:38,13:02,NA,NA,NA,NA,visited dehisced on another flower of same individual,1,L. Seay,Y,9,NA,NA,6.4,2.6,N,insect not identified,NA
+6/1/2018,2018,8,7,12:38,13:10,Hymenoptera,unknown,unknown,unknown,quickly landed on top of 3 flowers of separate individuals,na,L. Seay,Y,45,NA,NA,6.4,38.6,Y,,visited
+6/1/2018,2018,9,7,12:38,13:10,Hymenoptera,unknown,unknown,unknown,quickly landed on top of 3 flowers of separate individuals,na,L. Seay,Y,16,NA,NA,6.4,9.6,Y,,visited
+6/1/2018,2018,10,7,12:38,13:10,Hymenoptera,unknown,unknown,unknown,quickly landed on top of 3 flowers of separate individuals,na,L. Seay,N,0,NA,NA,6.4,-6.4,Y,,visited
+6/2/2018,2018,11,8,11:22,13:10,Hymenoptera,Apidae,unknown,unknown,visited 3 flowers very excitedly,1,L. Seay,Y,25,NA,NA,6.4,18.6,Y,,visited
+6/2/2018,2018,12,8,11:22,11:31,Hymenoptera,Apidae,unknown,unknown,visited 3 flowers very excitedly,2,L. Seay,Y,8,NA,NA,6.4,1.6,Y,,visited
+6/2/2018,2018,13,8,11:22,11:31,Hymenoptera,Apidae,unknown,unknown,visited 3 flowers very excitedly,3,L. Seay,Y,1,NA,NA,6.4,-5.4,Y,,visited
+6/2/2018,2018,14,8,11:22,11:31,Hymenoptera,Apidae,unknown,unknown,visited 3 flowers very excitedly,4,L. Seay,N,0,NA,NA,6.4,-6.4,Y,,visited
+6/2/2018,2018,15,8,11:22,11:31,Hymenoptera,Apidae,unknown,unknown,visited 3 flowers very excitedly,5,L. Seay,Y,4,NA,NA,6.4,-2.4,Y,,visited
+6/2/2018,2018,16,8,11:22,11:31,Hymenoptera,Apidae,unknown,unknown,visited 3 flowers very excitedly,6,L. Seay,Y,7,NA,NA,6.4,0.6,Y,,visited
+6/2/2018,2018,17,control,13:15,na,control,control,control,control,,na,L. Seay,Y,17,NA,NA,6.4,10.6,Y,,control
+6/4/2018,2018,18,9,14:57,15:08,Hymenoptera,Halictidae,unknown,unknown,,1,L. Seay and C. Sorenson,N,0,NA,NA,6.4,-6.4,Y,,visited
+6/4/2018,2018,19,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,1,L. Seay and C. Sorenson,Y,37,NA,NA,6.4,30.6,Y,,visited
+6/4/2018,2018,20,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,2,L. Seay and C. Sorenson,Y,60,NA,NA,6.4,53.6,Y,,visited
+6/4/2018,2018,21,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,3,L. Seay and C. Sorenson,NA,NA,NA,NA,6.4,-6.4,N,no stigma collected,visited
+6/4/2018,2018,22,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,4,L. Seay and C. Sorenson,Y,127,NA,NA,6.4,120.6,Y,,visited
+6/4/2018,2018,23,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,5,L. Seay and C. Sorenson,Y,93,NA,NA,6.4,86.6,Y,,visited
+6/4/2018,2018,24,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,6,L. Seay and C. Sorenson,Y,44,NA,NA,6.4,37.6,Y,,visited
+6/4/2018,2018,25,10,15:09,15:12,Hymenoptera,Apidae (Apis),Apis,mellifera,,7,L. Seay and C. Sorenson,Y,104,NA,NA,6.4,97.6,Y,,visited
+6/4/2018,2018,26,10,15:13,15:14,Hymenoptera,Apidae (Apis),Apis,mellifera,,8,L. Seay and C. Sorenson,Y,2,NA,NA,6.4,-4.4,Y,,visited
+6/4/2018,2018,27,10,15:13,15:14,Hymenoptera,Apidae (Apis),Apis,mellifera,,9,L. Seay and C. Sorenson,Y,91,NA,NA,6.4,84.6,Y,,visited
+6/4/2018,2018,28,10,15:13,15:14,Hymenoptera,Apidae (Apis),Apis,mellifera,,10,L. Seay and C. Sorenson,Y,178,NA,NA,6.4,171.6,Y,,visited
+6/4/2018,2018,29,10,15:13,15:14,Hymenoptera,Apidae (Apis),Apis,mellifera,,11,L. Seay and C. Sorenson,Y,100,NA,NA,6.4,93.6,Y,,visited
+6/4/2018,2018,30,11 and 10,15:13,15:14,Hymenoptera,Megachilidae and Apidae,Apis,mellifera,,unknown,L. Seay and C. Sorenson,Y,89,NA,NA,6.4,82.6,N,stigma visited by two pollinators prior to collection,visited
+6/4/2018,2018,31,11,15:20,15:20,Hymenoptera,Megachilidae,unknown,unknown,,1,L. Seay and C. Sorenson,Y,6,NA,NA,6.4,-0.4,Y,,visited
+6/4/2018,2018,32,11,15:20,15:20,Hymenoptera,Megachilidae,unknown,unknown,,2,L. Seay and C. Sorenson,Y,3,NA,NA,6.4,-3.4,Y,,visited
+6/5/2018,2018,33a,12,15:13,15:18,Hymenoptera,Apidae (Apis),Apis,mellifera,,unknown,L. Seay,N,20,NA,NA,6.4,13.6,N,visitation order unclear,visited
+6/5/2018,2018,33b,12,15:13,15:18,Hymenoptera,Apidae (Apis),Apis,mellifera,,unknown,L. Seay,N,120,NA,NA,6.4,113.6,N,visitation order unclear,visited
+6/5/2018,2018,34,12,15:09,15:18,Hymenoptera,Apidae (Apis),Apis,mellifera,,2,L. Seay,Y,42,NA,NA,6.4,35.6,Y,,visited
+6/5/2018,2018,35,13,15:09,15:22,Hymenoptera,Megachilidae,unknown,unknown,foraging for nectar,1,L. Seay,Y,8,NA,NA,6.4,1.6,Y,,visited
+6/5/2018,2018,36,13,15:09,15:22,Hymenoptera,Megachilidae,unknown,unknown,foraging for nectar,2,L. Seay,Y,4,NA,NA,6.4,-2.4,Y,,visited
+6/5/2018,2018,37,13,15:09,15:22,Hymenoptera,Megachilidae,unknown,unknown,foraging for nectar,3,L. Seay,NA,0,NA,NA,6.4,-6.4,N,no stigma,visited
+6/5/2018,2018,38,13,15:09,15:22,Hymenoptera,Megachilidae,unknown,unknown,foraging for nectar,4,L. Seay,NA,0,NA,NA,6.4,-6.4,N,no stigma,visited
+6/5/2018,2018,39,14,11:43,11:45,Hymenoptera,Apidae (Apis),Apis,mellifera,foraging for nectar,1,L. Hamon,Y,39,NA,NA,6.4,32.6,Y,,visited
+6/6/2018,2018,40,15,11:43,12:08,Hymenoptera,Apidae,Bombus,unknown,foraging for nectar,1,L. Hamon,Y,37,NA,NA,6.4,30.6,Y,,visited
+6/6/2018,2018,41,16,11:43,12:22,Diptera,Syrphidae,unknown,unknown,foraging for nectar,1,L. Hamon,N,1,NA,NA,6.4,-5.4,Y,,visited
+6/7/2018,2018,42,17,11:35,11:43,Hymenoptera,Halictidae,unknown,unknown,"foraging for nectar, crawled over stigma",1,L. Hamon,N,0,NA,NA,6.4,-6.4,Y,,visited
+6/7/2018,2018,43,17,11:35,11:43,Hymenoptera,Halictidae,unknown,unknown,"foraging for nectar, crawled over stigma",2,L. Hamon,Y,1,NA,NA,6.4,-5.4,Y,,visited
+6/7/2018,2018,44,control,11:35,12:05,control,control,control,control,,na,L. Hamon,N,0,NA,NA,6.4,-6.4,Y,,control
+6/7/2018,2018,45,control,11:35,12:05,control,control,control,control,,na,L. Hamon,N,0,NA,NA,6.4,-6.4,Y,,control
+6/7/2018,2018,46,18,12:27,12:44,Hymenoptera,Halictidae,unknown,unknown,spent time at male flower and then went to female of same plant,1,L. Hamon,Y,15,NA,NA,6.4,8.6,Y,,visited
+6/7/2018,2018,47,control,12:27,12:57,control,control,control,control,,na,L. Hamon,Y,15,NA,NA,6.4,8.6,Y,,control
+6/7/2018,2018,48,19,14:53,13:15,Hymenoptera,Apidae (Apis),Apis,mellifera,foraging for nectar,1,L. Hamon,Y,48,NA,NA,6.4,41.6,Y,,visited
+6/7/2018,2018,49,19,14:53,13:15,Hymenoptera,Apidae (Apis),Apis,mellifera,foraging for nectar,2,L. Hamon,Y,41,NA,NA,6.4,34.6,Y,,visited
+6/7/2018,2018,50,19,14:53,13:15,Hymenoptera,Apidae (Apis),Apis,mellifera,foraging for nectar,3,L. Hamon,Y,7,NA,NA,6.4,0.6,Y,,visited
+6/7/2018,2018,51,19,14:53,13:15,Hymenoptera,Apidae (Apis),Apis,mellifera,foraging for nectar,4,L. Hamon,Y,43,NA,NA,6.4,36.6,Y,,visited
+6/7/2018,2018,52,19,14:53,13:15,Hymenoptera,Apidae (Apis),Apis,mellifera,foraging for nectar,5,L. Hamon,Y,50,NA,NA,6.4,43.6,Y,,visited
+6/14/2018,2018,53,20,12:03,12:11,Hymenoptera,Halictidae,unknown,unknown,crawled over stigma,1,L. Seay,Y,5,NA,NA,6.4,-1.4,Y,,visited
+6/14/2018,2018,54,20,12:03,12:11,Hymenoptera,Halictidae,unknown,unknown,crawled over stigma,2,L. Seay,N,0,NA,NA,6.4,-6.4,Y,,visited
+6/14/2018,2018,55,20,12:03,12:11,Hymenoptera,Halictidae,unknown,unknown,crawled over stigma,1,L. Seay,Y,81,NA,NA,6.4,74.6,Y,,visited
+6/14/2018,2018,56,21,12:03,12:29,Hymenoptera,Halictidae,unknown,unknown,foraging for nectar,2,L. Seay,Y,28,NA,NA,6.4,21.6,Y,,visited
+6/14/2018,2018,57,21,12:03,12:29,Hymenoptera,Halictidae,unknown,unknown,foraging for nectar,3,L. Seay,Y,43,NA,NA,6.4,36.6,Y,,visited
+6/14/2018,2018,58,21,12:03,12:30,Hymenoptera,Halictidae,unknown,unknown,foraging for nectar,4,L. Seay,Y,14,NA,NA,6.4,7.6,Y,,visited
+6/14/2018,2018,59,22,12:03,12:34,Hymenoptera,Halictidae,unknown,unknown,foraging for nectar,1,L. Seay,Y,44,NA,NA,6.4,37.6,Y,,visited
+6/14/2018,2018,60,22,12:03,12:34,Hymenoptera,Halictidae,unknown,unknown,foraging for nectar,2,L. Seay,Y,34,NA,NA,6.4,27.6,Y,,visited
+6/15/2018,2018,61,23,12:57,12:58,Hymenoptera,Halictidae,unknown,unknown,"foraging for nectar, touched stigma",1,L. Hamon,Y,3,NA,NA,6.4,-3.4,Y,,visited
+6/15/2018,2018,62,24,12:59,13:03,Diptera,unknown,unknown,unknown,foraging for nectar,1,L. Seay,Y,1,NA,NA,6.4,-5.4,Y,,visited
+6/15/2018,2018,63,24,12:59,13:03,Diptera,unknown,unknown,unknown,foraging for nectar,2,L. Seay,N,0,NA,NA,6.4,-6.4,Y,,visited
+6/15/2018,2018,64,25,12:59,13:22,Hymenoptera,Halictidae,Augochlorella,gratiosa,,1,L. Hamon,Y,37,NA,NA,6.4,30.6,Y,,visited
+6/15/2018,2018,65,control,12:59,na,control,control,control,control,,na,L. Hamon,N,0,NA,NA,6.4,-6.4,Y,,control
+6/16/2018,2018,66,26,13:58,14:08,Hymenoptera,Halictidae,unknown,unknown,visited male flower in same plant first. Sought pollen and nectar,1,L. Hamon,N,NA,NA,NA,6.4,-6.4,N,stigma missing,visited
+6/2/2020,2020,67,27,12:52,14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,1,L. Hamon,Y,14,1,1 other sp.,7.5,6.5,Y,,visited
+6/2/2020,2020,68,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,2,L. Hamon,Y,65,2,"Aster, 1 other",7.5,57.5,Y,,visited
+6/2/2020,2020,69,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,3,L. Hamon,Y,110,0,,7.5,102.5,Y,,visited
+6/2/2020,2020,70,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,4,L. Hamon,Y,108,0,,7.5,100.5,Y,,visited
+6/2/2020,2020,71,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,5,L. Hamon,Y,54,1,1 other sp.,7.5,46.5,Y,,visited
+6/2/2020,2020,72,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,6,L. Hamon,Y,54,2,2 other spp.,7.5,46.5,Y,,visited
+6/2/2020,2020,73,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,7,L. Hamon,Y,11,0,,7.5,3.5,Y,,visited
+6/2/2020,2020,74,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,8,L. Hamon,Y,59,0,,7.5,51.5,Y,,visited
+6/2/2020,2020,75,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,9,L. Hamon,Y,148,0,,7.5,140.5,Y,,visited
+6/2/2020,2020,76,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,10,L. Hamon,Y,39,0,,7.5,31.5,Y,,visited
+6/2/2020,2020,77,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,11,L. Hamon,Y,24,0,,7.5,16.5,Y,,visited
+6/2/2020,2020,78,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,12,L. Hamon,Y,32,3,2 other spp.,7.5,24.5,Y,,visited
+6/2/2020,2020,79,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,13,L. Hamon,Y,84,0,,7.5,76.5,Y,,visited
+6/2/2020,2020,80,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,14,L. Hamon,Y,81,3,Asteraceae,7.5,73.5,Y,,visited
+6/2/2020,2020,81,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,15,L. Hamon,Y,67,0,,7.5,59.5,Y,,visited
+6/2/2020,2020,82,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,16,L. Hamon,Y,107,0,,7.5,99.5,Y,,visited
+6/2/2020,2020,83,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,17,L. Hamon,N,NA,NA,missing,7.5,NA,N,no stigma,visited
+6/2/2020,2020,84,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,nectaring,18,L. Hamon,Y,23,1,Asteraceae,7.5,15.5,Y,,visited
+6/2/2020,2020,85,27,12:52,approx. 14:18,Hymenoptera,Apidae,Bombus,unknown,necatring,19,L. Hamon,Y,18,0,,7.5,10.5,Y,,visited
+6/2/2020,2020,86,27,12:52,14:23,Hymenoptera,Apidae,Bombus,unknown,nectaring,20,L. Hamon,Y,91,1,Asteraceae,7.5,83.5,Y,,visited
+6/2/2020,2020,87,28,16:25,16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,necatring,1,L. Hamon,Y,161,0,,7.5,153.5,Y,,visited
+6/2/2020,2020,88,28,16:25,approx. 16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,nectaring,2,L. Hamon,Y,112,0,,7.5,104.5,Y,,visited
+6/2/2020,2020,89,28,16:25,approx. 16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,necatring,3,L. Hamon,Y,101,0,,7.5,93.5,Y,,visited
+6/2/2020,2020,90,28,16:25,approx. 16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,nectaring,4,L. Hamon,Y,85,0,,7.5,77.5,Y,,visited
+6/2/2020,2020,91,28,16:25,approx. 16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,necatring,5,L. Hamon,Y,26,0,,7.5,18.5,Y,,visited
+6/2/2020,2020,92,28,16:25,approx. 16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,nectaring,6,L. Hamon,Y,103,0,,7.5,95.5,Y,,visited
+6/2/2020,2020,93,28,16:25,approx. 16:37,Hymenoptera,Apidae (Apis),Apis,mellifera,necatring,7,L. Hamon,N,0,0,,7.5,-7.5,Y,,visited
+6/2/2020,2020,94,28,16:25,approx. 16:38,Hymenoptera,Apidae (Apis),Apis,mellifera,nectaring,8,L. Hamon,Y,92,0,,7.5,84.5,Y,,visited
+6/4/2020,2020,95,29,12:34,12:37,Hymenoptera,Halictidae,unknown,unknown,necatring,1,L. Hamon,Y,9,0,,7.5,1.5,Y,,visited
+6/4/2020,2020,96,30,12:34,13:28,Hymenoptera,Vespidae,unknown (likely Eumeninae),unknown (likely Eumeninae),nectaring,1,L. Hamon,Y,25,0,,7.5,17.5,Y,,visited
+6/4/2020,2020,97,30,12:34,13:28,Hymenoptera,Vespidae,unknown (likely Eumeninae),unknown (likely Eumeninae),necatring,2,L. Hamon,Y,48,0,,7.5,40.5,Y,,visited
+6/4/2020,2020,98,31,14:59,15:28,Hymenoptera,Megachilidae,unknown,unknown,nectaring,1,L. Hamon,Y,91,2,,7.5,83.5,Y,,visited
+6/4/2020,2020,99,31,14:59,approx. 15:28,Hymenoptera,Megachilidae,unknown,unknown,necatring,2,L. Hamon,Y,18,0,,7.5,10.5,Y,,visited
+6/4/2020,2020,100,31,14:59,approx. 15:28,Hymenoptera,Megachilidae,unknown,unknown,nectaring,3,L. Hamon,Y,56,0,,7.5,48.5,Y,,visited
+6/4/2020,2020,101,31,14:59,approx. 15:28,Hymenoptera,Megachilidae,unknown,unknown,necatring,4,L. Hamon,Y,17,0,,7.5,9.5,Y,,visited
+6/4/2020,2020,102,31,14:59,approx. 15:30,Hymenoptera,Megachilidae,unknown,unknown,nectaring,5,L. Hamon,Y,24,0,,7.5,16.5,Y,,visited
+6/5/2020,2020,103,32,12:31,13:59,Hymenoptera,Apidae,unknown,unknown,necatring,1,L. Hamon,Y,54,0,,7.5,46.5,Y,,visited
+6/5/2020,2020,104,32,12:31,approx. 13:59,Hymenoptera,Apidae,unknown,unknown,nectaring,2,L. Hamon,Y,15,0,,7.5,7.5,Y,,visited
+6/5/2020,2020,105,32,12:31,approx. 13:59,Hymenoptera,Apidae,unknown,unknown,necatring,3,L. Hamon,Y,33,0,,7.5,25.5,Y,,visited
+6/5/2020,2020,106,32,12:31,approx. 13:59,Hymenoptera,Apidae,unknown,unknown,nectaring,4,L. Hamon,Y,18,0,,7.5,10.5,Y,,visited
+6/5/2020,2020,107,32,12:31,approx. 13:59,Hymenoptera,Apidae,unknown,unknown,necatring,5,L. Hamon,Y,56,0,,7.5,48.5,Y,,visited
+6/5/2020,2020,108,32,12:31,14:01,Hymenoptera,Apidae,unknown,unknown,nectaring,6,L. Hamon,Y,24,0,,7.5,16.5,Y,,visited
+6/10/2020,2020,109,33,11:07,11:30,Hymenoptera,Apidae,Bombus,unknown,necatring,1,L. Hamon,Y,59,0,,7.5,51.5,Y,,visited
+6/10/2020,2020,110,33,11:07,approx. 11:30,Hymenoptera,Apidae,Bombus,unknown,nectaring,2,L. Hamon,Y,1,4,1 other sp.,7.5,-6.5,Y,,visited
+6/10/2020,2020,111,33,11:07,approx. 11:30,Hymenoptera,Apidae,Bombus,unknown,necatring,3,L. Hamon,Y,31,0,,7.5,23.5,Y,,visited
+6/10/2020,2020,112,33,11:07,approx. 11:31,Hymenoptera,Apidae,Bombus,unknown,nectaring,4,L. Hamon,Y,13,0,,7.5,5.5,Y,,visited
+6/10/2020,2020,113,34,11:49,12:20,Hymenoptera,Halictidae,unknown,unknown,"nectaring, some pollen gathering",1,L. Hamon,Y,18,0,,7.5,10.5,Y,,visited
+6/10/2020,2020,114,35,11:49,12:39,Hymenoptera,Halictidae,unknown,unknown,nectaring,1,L. Hamon,Y,14,0,,7.5,6.5,Y,,visited
+6/10/2020,2020,115,36,11:49,12:45,Hymenoptera,Halictidae,unknown,unknown,nectaring,1,L. Hamon,Y,8,0,,7.5,0.5,Y,,visited
+6/10/2020,2020,116,37,11:49,12:48,Hymenoptera,Halictidae,unknown,unknown,nectaring,1,L. Hamon,Y,9,0,,7.5,1.5,Y,,visited
+6/10/2020,2020,117,control,13:26,13:26,control,control,control,control,n/a,NA,L. Hamon,N,0,0,,7.5,-7.5,Y,,control
+6/10/2020,2020,118,control,13:26,13:26,control,control,control,control,n/a,NA,L. Hamon,Y,17,0,,7.5,9.5,Y,,control
+6/10/2020,2020,119,control,13:26,13:26,control,control,control,control,n/a,NA,L. Hamon,Y,11,0,,7.5,3.5,Y,,control
+6/10/2020,2020,120,control,13:26,13:26,control,control,control,control,n/a,NA,L. Hamon,N,0,1,1 other sp.,7.5,-7.5,Y,,control
+6/10/2020,2020,121,control,13:26,13:26,control,control,control,control,n/a,NA,L. Hamon,Y,8,0,,7.5,0.5,Y,,control
+6/10/2020,2020,122,38,13:32,13:47,Lepidoptera,Nymphalidae,Junonia,coenia,nectaring,1,L. Hamon,Y,3,0,,7.5,-4.5,Y,,visited
+6/11/2020,2020,123,39,11:50,12:02,Hymenoptera,Halictidae,unknown,unknown,nectaring,1,L. Hamon,Y,17,0,,7.5,9.5,Y,,visited
+6/11/2020,2020,124,control,13:31,15:00,control,control,control,control,n/a,NA,L. Hamon,Y,2,0,,7.5,-5.5,Y,,control
+6/11/2020,2020,125,control,13:31,15:00,control,control,control,control,n/a,NA,L. Hamon,Y,18,0,,7.5,10.5,Y,,control
+6/11/2020,2020,126,control,13:31,15:00,control,control,control,control,n/a,NA,L. Hamon,Y,1,0,,7.5,-6.5,Y,,control
+6/11/2020,2020,127,control,13:31,15:00,control,control,control,control,n/a,NA,L. Hamon,Y,7,0,,7.5,-0.5,Y,,control
+6/11/2020,2020,128,control,13:31,15:00,control,control,control,control,n/a,NA,L. Hamon,Y,11,0,,7.5,3.5,Y,,control
