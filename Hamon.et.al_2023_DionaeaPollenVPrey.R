@@ -45,7 +45,7 @@ uniquedat<-distinct(datfruit, datfruit$plantID, .keep_all = TRUE)
 
 #Is there a difference in a multiplicative fitness estimate (fruit set x average seed set) between treatments?
 #create column for multiplicative fruit x average seed set per fruit
-uniquedat$multFruitSeed <- uniquedat$MnNoBlkSeeds*uniquedat$numberSuccessfulFruit
+uniquedat$multFruitSeed <- uniquedat$totalFlrs*(uniquedat$numberSuccessfulFruit/uniquedat$totalFlrs)*uniquedat$MnNoBlkSeeds
 #run ANOVA
 model1 <- lm(multFruitSeed ~ pollenTRT*preyTRT, data=uniquedat)
 summary(model1)
